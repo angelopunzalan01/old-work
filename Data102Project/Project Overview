@@ -1,0 +1,7 @@
+This is the folder for our Data 102 Final Project.
+In this project, we examined the 2018 US Primary Election results for the Democratic and Republican parties, and performed statistical analysis on the datasets in order to see if there were any factors affecting victory. 
+The two main methods used in this project are Multiple Hypothesis Testing and Causal Inference.
+
+For Multiple Hypothesis Testing, we had to also do p-value corrections using the Bonferroni and Benjamini - Yekutieli Methods in order to lower our FWER and FDR, respectively. 
+
+For Causal Inference, we drew a causal DAG and calculated the Average Treatment Effect and the Average Treatment Effect of the Treated. 
